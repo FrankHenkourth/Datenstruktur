@@ -2,8 +2,8 @@
 
 **Datenstruktur** es un compendio de implementaciones de estructuras de datos en varios lenguajes de programación. Aquí encontrarás resúmenes y ejemplos de cómo se implementan las estructuras de datos más comunes: **NODO**, **LISTA**, **PILA**, **COLA** y **ARBOL** en los siguientes lenguajes:
 
-- C++
 - Java
+- C++
 - JavaScript
 - Python
 - C#
