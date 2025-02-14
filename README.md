@@ -1,6 +1,6 @@
 # Datenstruktur
 
-Bienvenido al repositorio **Datenstruktur**, un compendio de implementaciones de estructuras de datos en varios lenguajes de programación. Aquí encontrarás resúmenes y ejemplos de cómo se implementan las estructuras de datos más comunes: **NODO**, **LISTA**, **PILA**, **COLA** y **ARBOL** en los siguientes lenguajes:
+**Datenstruktur** es un compendio de implementaciones de estructuras de datos en varios lenguajes de programación. Aquí encontrarás resúmenes y ejemplos de cómo se implementan las estructuras de datos más comunes: **NODO**, **LISTA**, **PILA**, **COLA** y **ARBOL** en los siguientes lenguajes:
 
 - C++
 - Java
@@ -8,10 +8,6 @@ Bienvenido al repositorio **Datenstruktur**, un compendio de implementaciones de
 - Python
 - C#
 - Rust
-
-## Autor
-
-Este repositorio ha sido creado por **Frank Henkourth**.
 
 ## Estructuras de Datos
 
