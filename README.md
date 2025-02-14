@@ -17,38 +17,15 @@ Este repositorio ha sido creado por **Frank Henkourth**.
 
 A continuación, se presenta el estado actual de las implementaciones por lenguaje:
 
-| Lenguaje      | Estructura | Estado       | Icono          |
-|---------------|------------|--------------|-----------------|
-| C++           | NODO       | En Proceso   | 🛠️              |
-| C++           | LISTA      | Terminado    | ✅              |
-| C++           | PILA       | Proyectado   | 📅              |
-| C++           | COLA       | En Proceso   | 🛠️              |
-| C++           | ARBOL      | Terminado    | ✅              |
-| Java          | NODO       | En Proceso   | 🛠️              |
-| Java          | LISTA      | Terminado    | ✅              |
-| Java          | PILA       | Proyectado   | 📅              |
-| Java          | COLA       | En Proceso   | 🛠️              |
-| Java          | ARBOL      | Terminado    | ✅              |
-| JavaScript    | NODO       | En Proceso   | 🛠️              |
-| JavaScript    | LISTA      | Terminado    | ✅              |
-| JavaScript    | PILA       | Proyectado   | 📅              |
-| JavaScript    | COLA       | En Proceso   | 🛠️              |
-| JavaScript    | ARBOL      | Terminado    | ✅              |
-| Python        | NODO       | En Proceso   | 🛠️              |
-| Python        | LISTA      | Terminado    | ✅              |
-| Python        | PILA       | Proyectado   | 📅              |
-| Python        | COLA       | En Proceso   | 🛠️              |
-| Python        | ARBOL      | Terminado    | ✅              |
-| C#            | NODO       | En Proceso   | 🛠️              |
-| C#            | LISTA      | Terminado    | ✅              |
-| C#            | PILA       | Proyectado   | 📅              |
-| C#            | COLA       | En Proceso   | 🛠️              |
-| C#            | ARBOL      | Terminado    | ✅              |
-| Rust          | NODO       | En Proceso   | 🛠️              |
-| Rust          | LISTA      | Terminado    | ✅              |
-| Rust          | PILA       | Proyectado   | 📅              |
-| Rust          | COLA       | En Proceso   | 🛠️              |
-| Rust          | ARBOL      | Terminado    | ✅              |
+| Lenguaje      | Estado       | Icono            |
+|---------------|--------------|------------------|
+| Java          | Terminado    | ✅              |
+| C++           | En Proceso   | 🛠️              |
+| JavaScript    | En Proceso   | 🛠️              |
+| Python        | En Proceso   | 🛠️              |
+| C#            | En Proceso   | 🛠️              |
+| Rust          | En Proceso   | 🛠️              |
+
 
 ## Contribuciones
 
