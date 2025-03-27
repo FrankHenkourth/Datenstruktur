@@ -1,7 +1,9 @@
-#ifndef NODO_HPP;
-#define NODO_HPP;
+#ifndef NODO_HPP
+#define NODO_HPP
 
-#include <iostream>;
+#include <iostream>
 
-struct NODO{}
+struct NODO {
+    
+}
 
